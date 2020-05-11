@@ -1,0 +1,15 @@
+﻿body {
+    background-color:lightslategrey;
+    font-family: sans-serif;
+    position: relative;
+    height: 100%;
+}
+
+.myDev {
+    font-size: 25px;
+}
+footer {
+    position: fixed;
+    right: 0;
+    left: 0;
+}
